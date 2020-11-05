@@ -58,7 +58,7 @@ foreach($results as $result)
                                     <div class="form-group mt-20">
                                         <div class="">
                                       
-                                            <button type="submit" class="btn btn-success btn-labeled pull-right">Search<span class="btn-label btn-label-right"><i class="fa fa-check"></i></span></button>
+                                            <button type="submit" class="btn btn-danger btn-labeled pull-right">Search<span class="btn-label btn-label-right"><i class="fa fa-check"></i></span></button>
                                             <div class="clearfix"></div>
                                         </div>
                                     </div>
@@ -73,7 +73,7 @@ foreach($results as $result)
                             </div>
                         </div>
                         <!-- /.panel -->
-                        <p class="text-muted text-center"><small>Copyright © <a href="http://www.phpgurukul.com/">PHPGURUKUL</a> 2017</small></p>
+                        <p class="text-muted text-center"><small>Copyright © <a href="">Yann Olivier</a> 2017</small></p>
                     </div>
                     <!-- /.col-md-6 col-md-offset-3 -->
                 </div>
