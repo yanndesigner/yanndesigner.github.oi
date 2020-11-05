@@ -16,10 +16,10 @@ include('includes/config.php');?>
         <link rel="stylesheet" href="css/main.css" media="screen" >
         <script src="js/modernizr/modernizr.min.js"></script>
     </head>
-    <body class="">
+    <body class="bg-danger">
         <div class="main-wrapper">
 
-            <div class="login-bg-color bg-black-300">
+            <div class="login-bg-color bg-primary">
                 <div class="row">
                     <div class="col-md-4 col-md-offset-4">
                         <div class="panel login-box">
@@ -73,7 +73,7 @@ foreach($results as $result)
                             </div>
                         </div>
                         <!-- /.panel -->
-                        <p class="text-muted text-center"><small>Copyright © <a href="">Yann Olivier</a> 2017</small></p>
+                        <p class="text-muted text-center"><small>Copyright © <a href="">Yann Olivier</a> 2020</small></p>
                     </div>
                     <!-- /.col-md-6 col-md-offset-3 -->
                 </div>
