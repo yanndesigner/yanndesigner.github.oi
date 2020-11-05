@@ -48,7 +48,7 @@ echo "<script type='text/javascript'> document.location = 'dashboard.php'; </scr
 
     }
     </styles>
-    <body class="">
+    <body class="bg-danger">
         <div class="main-wrapper">
 
             <div class="">
